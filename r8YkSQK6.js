@@ -1,0 +1,1 @@
+import{p as t,c as a,t as o,u as s,o as r}from"./6sxIqWDa.js";const i={__name:"[idVideo]",setup(n){const{idVideo:e}=t().params;return(c,p)=>(r(),a("h1",null,"Видео № "+o(s(e)),1))}};export{i as default};
